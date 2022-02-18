@@ -1,0 +1,241 @@
+﻿[
+  {
+    "question": "1. Выберите наиболее подходящий ответ! “What does your husband do?”",
+    "answers": [ "He is feeding the dog.", "He is a doctor.", "Yes, he does.", "Yes, he is." ],
+    "correct_answer": 1
+  },
+
+  {
+    "question": "2. Что такое альтернативный вопрос в английском языке?",
+    "answers": [ "Вопрос, требующий ответа «Да» или «Нет».", "Специальный вопрос к любому члену предложения.", "Вопрос, предполагающий выбор между двумя качествами, предметами или действиями.", "Вопрос, являющийся уточнением какого-либо утверждения." ],
+    "correct_answer": 2
+  },
+
+  {
+    "question": "3. Yesterday I ................. a bird.",
+    "answers": [ "saw", "sawed", "see", "seed" ],
+    "correct_answer": 0
+  },
+
+  {
+    "question": "4. Найдите неправильный глагол: to play, to smile, to laugh, to see.",
+    "answers": [ "to play", "to smile", "to laugh", "to see" ],
+    "correct_answer": 3
+  },
+
+  {
+    "question": "5. При помощи какого суффикса может образовываться наречие в английском языке? От какой части речи?",
+    "answers": [ "При помощи суффикса «-ly» от глаголов.", "При помощи суффикса «-ly» от прилагательных.", "При помощи суффикса «-ed» от существительных.", "При помощи суффикса «-ing» от прилагательных." ],
+    "correct_answer": 1
+  },
+
+  {
+    "question": "6. Укажите существительное, имеющее неправильную форму множественного числа.",
+    "answers": [ "lady", "gentleman", "son", "daughter" ],
+    "correct_answer": 1
+  },
+
+  {
+    "question": "7. Найдите ошибку в трѐх формах глагола:",
+    "answers": [ "teach – taught – taught", "catch – caught – caught", "bring – braught – braught", "seek – sought – sought" ],
+    "correct_answer": 2
+  },
+
+  {
+    "question": "8. Выберите наиболее подходящий ответ! “What is she doing?”",
+    "answers": [ "She is playing with the bunny.", "She is a manager.", "She cleans the house every day.", "She is clean the carpet." ],
+    "correct_answer": 0
+  },
+
+  {
+    "question": "9. Как совершается действие, выраженное глаголом в Present Continuous?",
+    "answers": [ "Действие, выраженное глаголом в Present Continuous, во всех случаях совершается постоянно или регулярно в настоящем времени.", "Действие совершается всегда в будущем времени.", "Действие совершается в данный момент, или момент речи в настоящем времени.", "Действие уже совершено, и в предложении подчеркивается результат такого действия." ],
+    "correct_answer": 2
+  },
+
+  {
+    "question": "10. Karina never minds ................. the movie again.",
+    "answers": [ "to watch", "to be watched", "watch", "watching" ],
+    "correct_answer": 3
+  },
+
+  {
+    "question": "11. I couldn’t help ................. .",
+    "answers": [ "for laughing", "and laughed", "laughing", "to laughed" ],
+    "correct_answer": 2
+  },
+
+  {
+    "question": "12. Можно мне взять Ваш карандаш?",
+    "answers": [ "Can I take your pencil?", "Must I take your pencil?", "Should I take your pencil?", "May I take your pencil?" ],
+    "correct_answer": 3
+  },
+
+  {
+    "question": "13. Марта никогда не слышала, как он говорит по-английски.",
+    "answers": [ "Martha never heard him spoke English.", "Martha never heard him to speak English.", "Martha has never heard him speak English.", "Martha never heard how he speaks English." ],
+    "correct_answer": 2
+  },
+
+  {
+    "question": "14. Я знаю его четыре года.",
+    "answers": [ "I know him four years.", "I have been knowing him for four years.", "I know him for four years.", "I have known him for four years." ],
+    "correct_answer": 3
+  },
+
+  {
+    "question": "15. В каком из представленных ниже слов звук, который передаѐтся буквой «a», отличается от остальных:",
+    "answers": [ "map", "tape", "age", "make" ],
+    "correct_answer": 0
+  },
+
+  {
+    "question": "16. I have ................. butter, please, buy some.",
+    "answers": [ "little", "many", "few", "a few" ],
+    "correct_answer": 0
+  },
+
+  {
+    "question": "17. The taxi ................. by 7 o’clock yesterday.",
+    "answers": [ "has arrived", "had arrived", "arrived", "is arrived" ],
+    "correct_answer": 1
+  },
+
+  {
+    "question": "18. Должно быть, он продал свою машину.",
+    "answers": [ "It must be that he has sold his car.", "He must sold his car.", "He should have solden his car.", "He must have sold his car." ],
+    "correct_answer": 3
+  },
+
+  {
+    "question": "19. Я хочу, чтобы погода была хорошая.",
+    "answers": [ "I want that the weather will be fine.", "I want the weather to be fine.", "I want the weather be fine.", "I want the weather being fine." ],
+    "correct_answer": 1
+  },
+
+  {
+    "question": "20. Какой же он умный мальчик!",
+    "answers": [ "What an intelligent boy is he!", "What the intelligent boy is he!", "What an intelligent boy he is!", "What the intelligent boy he is!" ],
+    "correct_answer": 2
+  },
+
+  {
+    "question": "21. Find the incorrect sentence.",
+    "answers": [ "Though it was nine o’clock in the evening, there were not many people in the bar.", "Although it is nine o’clock in the evening, there are not many people in the restaurant.", "It was only nine o’clock in the morning, and there were too many people in the café.", "Through it was eight o’clock in the morning, there weren’t many people in the pub." ],
+    "correct_answer": 3
+  },
+
+  {
+    "question": "22. Какое из перечисленных ниже предложений нельзя перевести на русский язык как «Я читаю»?",
+    "answers": [ "I read magazines every day.", "I am reading a book.", "I have been reading the magazine for two hours.", "Все варианты подходят." ],
+    "correct_answer": 3
+  },
+
+  {
+    "question": "23. When Kate ................. at Pier 90, it was crowded with football fans.",
+    "answers": [ "achieved", "arrived", "entered", "reached" ],
+    "correct_answer": 1
+  },
+
+  {
+    "question": "24. There was no one to cheer him ................. .",
+    "answers": [ "on", "in", "up", "over" ],
+    "correct_answer": 2
+  },
+
+  {
+    "question": "25. Could you possibly give me ................. ?",
+    "answers": [ "a advice", "an advice", "some advices", "a piece of advice" ],
+    "correct_answer": 3
+  },
+
+  {
+    "question": "26. Marvin asked me ................. .",
+    "answers": [ "what was my favourite vegetable", "what my favourite vegetable was", "what is my favourite vegetable", "what about my favourite vegetable" ],
+    "correct_answer": 1
+  },
+
+  {
+    "question": "27. The accident happened ................. our way home.",
+    "answers": [ "in", "on", "for", "about" ],
+    "correct_answer": 1
+  },
+
+  {
+    "question": "28. If he were not so absent-minded, he ................. you for your sister (yesterday).",
+    "answers": [ "would not mistake", "would not have mistaken", "would not have been mistaken", "did not mistake" ],
+    "correct_answer": 1
+  },
+
+  {
+    "question": "29. If Mike lived in the country house, he ................. happier.",
+    "answers": [ "was", "is", "will be", "would be" ],
+    "correct_answer": 3
+  },
+
+  {
+    "question": "30. ................. that weird man sitting over there?",
+    "answers": [ "Which", "Whose", "Who's", "Who" ],
+    "correct_answer": 2
+  },
+
+  {
+    "question": "31. How long ................. his house?",
+    "answers": [ "has Mr Johnson had", "does Mr Johnson have", "had Mr Johnson had", "has Mr Johnson been having" ],
+    "correct_answer": 0
+  },
+
+  {
+    "question": "32. Ron has made up his ................. to become a teacher.",
+    "answers": [ "brains", "decision", "head", "mind" ],
+    "correct_answer": 3
+  },
+
+  {
+    "question": "33. If Deborah ................. to dinner tomorrow, I'll be happy.",
+    "answers": [ "will come", "comes", "came", "was coming" ],
+    "correct_answer": 1
+  },
+
+  {
+    "question": "34. Ask somebody for ................. occupation.",
+    "answers": [ "his", "her", "their", "its" ],
+    "correct_answer": 2
+  },
+
+  {
+    "question": "35. Kids shouldn't take those pills, and ................. .",
+    "answers": [ "neither should she", "neither she should", "she did either", "either shouldn't she" ],
+    "correct_answer": 0
+  },
+
+  {
+    "question": "36. The doctor ................. me that there would be no pain.",
+    "answers": [ "sured", "insured", "reassured", "ensured" ],
+    "correct_answer": 2
+  },
+
+  {
+    "question": "37. I am looking for an ................. method of heating.",
+    "answers": [ "economics", "economy", "economic", "economical" ],
+    "correct_answer": 3
+  },
+
+  {
+    "question": "38. We try to be ................. to the needs of the customer.",
+    "answers": [ "responsible", "responsive", "respondent", "response" ],
+    "correct_answer": 1
+  },
+
+  {
+    "question": "39. An obstetrician/gynecologist at the pre-conception clinic suggests we ................. some further tests.",
+    "answers": [ "doing", "to do", "are doing", "should do" ],
+    "correct_answer": 3
+  },
+
+  {
+    "question": "40. This particular college has a very selective ................. policy.",
+    "answers": [ "acceptance", "entrance", "admissions", "admittance" ],
+    "correct_answer": 2
+  }
+]
