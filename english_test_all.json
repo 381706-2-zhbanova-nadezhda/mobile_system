@@ -6,12 +6,6 @@
   },
 
   {
-    "question": "Что такое альтернативный вопрос?",
-    "answers": [ "Вопрос, требующий ответа «Да»/«Нет».", "Специальный вопрос к любому члену предложения.", "Вопрос, предполагающий выбор между двумя качествами, предметами или действиями.", "Вопрос, уточняющий утверждение." ],
-    "correct_answer": 2
-  },
-
-  {
     "question": "Yesterday I ........ a bird.",
     "answers": [ "saw", "sawed", "see", "seed" ],
     "correct_answer": 0
@@ -24,15 +18,9 @@
   },
 
   {
-    "question": "С каким суффиксом и от какой части речи может образовываться наречие?",
-    "answers": [ "При помощи суффикса «-ly» от глаголов.", "При помощи суффикса «-ly» от прилагательных.", "При помощи суффикса «-ed» от существительных.", "При помощи суффикса «-ing» от прилагательных." ],
-    "correct_answer": 1
-  },
-
-  {
-    "question": "Укажите существительное, имеющее неправильную форму множественного числа.",
-    "answers": [ "lady", "gentleman", "son", "daughter" ],
-    "correct_answer": 1
+    "question": "Kids shouldn't take those pills, and .... .",
+    "answers": [ "neither should she", "neither she should", "she did either", "either shouldn't she" ],
+    "correct_answer": 0
   },
 
   {
@@ -45,12 +33,6 @@
     "question": "“What is she doing?”",
     "answers": [ "She is playing with the bunny.", "She is a manager.", "She cleans the house every day.", "She is clean the carpet." ],
     "correct_answer": 0
-  },
-
-  {
-    "question": "Как совершается действие, выраженное глаголом в Present Continuous?",
-    "answers": [ "Действие во всех случаях совершается постоянно или регулярно в настоящем времени.", "Действие совершается всегда в будущем времени.", "Действие совершается в данный момент, или момент речи в настоящем времени.", "Действие уже совершено, и в предложении подчеркивается результат такого действия." ],
-    "correct_answer": 2
   },
 
   {
@@ -84,7 +66,7 @@
   },
 
   {
-    "question": "В каком слове звук, передаваемый буквой «a», отличается",
+    "question": "В каком слове звук, передаваемый буквой «a», отличается?",
     "answers": [ "map", "tape", "age", "make" ],
     "correct_answer": 0
   },
@@ -204,12 +186,6 @@
   },
 
   {
-    "question": "Kids shouldn't take those pills, and .... .",
-    "answers": [ "neither should she", "neither she should", "she did either", "either shouldn't she" ],
-    "correct_answer": 0
-  },
-
-  {
     "question": "The doctor .... me that there would be no pain.",
     "answers": [ "sured", "insured", "reassured", "ensured" ],
     "correct_answer": 2
@@ -237,5 +213,29 @@
     "question": "This particular college has a very selective .... policy.",
     "answers": [ "acceptance", "entrance", "admissions", "admittance" ],
     "correct_answer": 2
+  },
+
+  {
+    "question": "Как совершается действие, выраженное глаголом в Present Continuous?",
+    "answers": [ "Действие во всех случаях совершается постоянно или регулярно в настоящем времени.", "Действие совершается всегда в будущем времени.", "Действие совершается в данный момент, или момент речи в настоящем времени.", "Действие уже совершено, и в предложении подчеркивается результат такого действия." ],
+    "correct_answer": 2
+  },
+
+  {
+    "question": "Что такое альтернативный вопрос?",
+    "answers": [ "Вопрос, требующий ответа «Да»/«Нет».", "Специальный вопрос к любому члену предложения.", "Вопрос, предполагающий выбор между двумя качествами, предметами или действиями.", "Вопрос, уточняющий утверждение." ],
+    "correct_answer": 2
+  },
+
+  {
+    "question": "С каким суффиксом и от какой части речи может образовываться наречие?",
+    "answers": [ "При помощи суффикса «-ly» от глаголов.", "При помощи суффикса «-ly» от прилагательных.", "При помощи суффикса «-ed» от существительных.", "При помощи суффикса «-ing» от прилагательных." ],
+    "correct_answer": 1
+  },
+
+  {
+    "question": "Укажите существительное, имеющее неправильную форму множественного числа.",
+    "answers": [ "lady", "gentleman", "son", "daughter" ],
+    "correct_answer": 1
   }
 ]
